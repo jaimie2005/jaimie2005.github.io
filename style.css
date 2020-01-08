@@ -1,0 +1,63 @@
+.whole{
+    position: absolute;
+    top: 100vh;
+    height: 50vh;
+    width:100vw;
+    background-color: rgb(201, 209, 255);
+}
+
+
+.name{
+    text-shadow: 2px 2px rgb(107, 227, 187);
+}
+
+li{
+    display: inline;
+    font-family: 'Lobster', cursive;
+    width:20px;
+    padding:20px;
+}
+li a:hover{
+    background-color: #9bd7fa;
+    padding:3px;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.age{
+    color: rgb(201, 209, 255);
+}
+table{
+    border-style: groove;
+    box-shadow: 5px 5px 15px;
+}
+.sport{
+   color:rgb(189, 189, 255);
+}
+.portrait{
+    display: inline-block;
+    margin-left: 20%;
+    
+}
+body{
+    background-color: rgb(255, 255, 189);
+}
+.portrait2{
+    display: inline-block;
+    margin-left: 20%;
+}
+
+.gif{
+    display: inline-block;
+    margin-left: auto
+    margin-bottom: 50%;
+}
+
+ol{
+    border-style: groove;
+    box-shadow: 5px 5px 5px;
+    border-color: rgb(255, 255, 255);
+}
