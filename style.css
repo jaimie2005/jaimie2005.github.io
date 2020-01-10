@@ -61,3 +61,24 @@ ol{
     box-shadow: 5px 5px 5px;
     border-color: rgb(255, 255, 255);
 }
+.factsaboutme{
+        display: inline;
+    font-family: 'Lobster', cursive;
+    color: rgb(180, 139, 247);    
+}
+.tittle2{
+    color: rgb(255, 48, 48)
+}
+.hello{
+   display: inline-block;
+    margin-left: 50%;
+    margin-top: -35%;
+    height: 70vh;
+    width:40vw;
+}
+.aboutme{
+    font-family: 'Lobster', cursive;
+}
+    
+    
+}
